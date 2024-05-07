@@ -1,4 +1,6 @@
-#StarryNift自动交互脚本
+# StarryNift自动交互脚本
+
+
 
 ## 主要功能
 
@@ -38,11 +40,10 @@
 
 
 
-修改自源码：https://github.com/3asyPe/starrynift-automation
+修改自项目：https://github.com/3asyPe/starrynift-automation
 
 <p align="center">
   <a href="https://twitter.com/gIt17bbyal4Hvop"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/gIt17bbyal4Hvop">
 </p>
-
 
 
