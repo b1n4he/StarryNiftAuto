@@ -34,7 +34,7 @@
 
 ### 2、关于CloudFlare验证码
 
-原计划使用yescaptcha来处理CloudFlare验证码，但是实测CloudFlare验证码并没有严格的限制，不会造成太大的影响，因此暂不加入
+原计划使用yescaptcha来处理CloudFlare验证码，但是实测CloudFlare验证码并没有进行严格的限制，不会造成太大的影响，因此暂不加入
 
 
 
