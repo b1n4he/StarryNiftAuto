@@ -21,6 +21,7 @@
 - 填入私钥 `/data/private_keys.txt`
 - 填入代理 `data/proxies.txt`(注意与私钥数量对应)
 - 邀请设置 `/modules/setting.py`
+- 运行 `python main.py`
 
 
 
