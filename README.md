@@ -38,8 +38,8 @@
 
 
 
-
-修改自项目：https://github.com/3asyPe/starrynift-automation
+### 3、原项目
+修改自项目：https://github.com/3asyPe/starrynift-automation 在此致谢
 
 <p align="center">
   <a href="https://twitter.com/gIt17bbyal4Hvop"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/gIt17bbyal4Hvop">
